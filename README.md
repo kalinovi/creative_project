@@ -29,4 +29,11 @@ This is a Project for the GIT lesson based on a Bootstrap mockup.
 
 </ul>
 
+
 ```
+
+```js
+const foo= 'bar'
+
+
+
